@@ -2,7 +2,7 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <span style="color:#f6ac53">Anjali</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F6AC53&center=true&vCenter=true&width=435&lines=Welcome+To+My+GitHub+Space;Honours+Student+in+Information+Systems;Passionate+about+tech"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F6AC53&center=true&vCenter=true&width=435&lines=Welcome+To+My+GitHub+Space;Passionate+about+tech"/>
 </p>
 
 ---
