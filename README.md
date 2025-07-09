@@ -104,6 +104,12 @@ I'm an enthusiastic and dedicated developer who thrives on learning and building
 - 📍 Based in South Africa
 - 🎵 Love exploring new places and  music 🍂
 
+
+## 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/Anjali-225/Anjali-225/blob/output/github-contribution-grid-snake.svg)
+
+
 ---
 
 <p align="center">
