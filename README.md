@@ -18,6 +18,8 @@ I'm an enthusiastic and dedicated developer who thrives on learning and building
 📚 Currently exploring **AI**, **ICT4D**, and **digital ethics**  
 ✨ I love blending creativity with structure — especially in tech projects!  
 
+View my College Projects Here: [https://github.com/ST10048211](https://github.com/ST10048211)
+
 ---
 ### ☎️ Contact Me
 
